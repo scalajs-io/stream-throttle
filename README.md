@@ -1,6 +1,6 @@
 stream-throttle package for Scala.js
 ================================
-[stream-throttle](http://stream-throttle.github.io/node-stream-throttle-native/2.2/api/) - A rate limiter for Node.js streams.
+[stream-throttle](https://www.npmjs.com/package/stream-throttle) - A rate limiter for Node.js streams.
 
 ### Description
 
