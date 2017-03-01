@@ -9,7 +9,7 @@ A rate limiter for Node.js streams.
 <a name="build_requirements"></a>
 ### Build Requirements
 
-* [ScalaJs.io v0.3.x](https://github.com/scalajs-io/scalajs.io)
+
 * [SBT v0.13.13](http://www.scala-sbt.org/download.html)
 
 <a name="building_sdk"></a>
