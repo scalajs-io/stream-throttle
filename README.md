@@ -9,7 +9,6 @@ A rate limiter for Node.js streams.
 <a name="build_requirements"></a>
 ### Build Requirements
 
-
 * [SBT v0.13.13](http://www.scala-sbt.org/download.html)
 
 <a name="building_sdk"></a>
@@ -64,7 +63,7 @@ val thr2 = conn2.pipe(tg.throttle())
 To add the `stream-throttle` binding to your project, add the following to your build.sbt:  
 
 ```sbt
-libraryDependencies += "io.scalajs.npm" %%% "stream-throttle" % "0.1.3"
+libraryDependencies += "io.scalajs.npm" %%% "stream-throttle" % "0.1.3-1"
 ```
 
 Optionally, you may add the Sonatype Repository resolver:
